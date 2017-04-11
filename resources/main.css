@@ -1,0 +1,12 @@
+@charset "utf-8";
+/* CSS Document */
+
+html, body {
+	padding: 0;
+	background: black url("../img/Logo-expanded-Final.jpg") no-repeat;
+}
+
+h1 {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	color: white;
+}
